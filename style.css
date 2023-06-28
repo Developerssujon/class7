@@ -1,0 +1,87 @@
+.main-section{
+    width: 1200px;
+    margin: 0 auto;
+}
+.hero h1{
+    background-color:#111b76 ;
+}
+.hero sub{
+    color: #b8b8c9;
+    font-weight: 400;
+    font-style: italic;
+    font-family: 'Montserrat', sans-serif;
+}
+.hero sup{
+    color: #5895d7;
+    font-weight: 400;
+    font-style:italic;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.hero span{
+    color: #9e496a;
+    font-weight: 400;
+    font-style:italic;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.hero{
+    text-align: center;
+    background-color: black;
+}
+.hero p{
+    background-color: #007416;
+    color: #f2fcfb;
+    font-family: 'Yellowtail', cursive;
+    font-size: 33px;
+    margin: 0 auto;  
+}
+.about{
+    text-align: center;
+    background-color:#eeeeee ;
+
+}
+.about h1{
+    background-color: #834747;
+    color: black;
+    font-family: 'Yellowtail', cursive;
+    
+}
+.about h2{
+    background-color:#26794b;
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+    font-weight: 400;
+}
+ .service-section{
+    background-color:#eeeeee;
+    text-align: center;
+    margin: 0 auto;
+ }
+ .service-section h2{
+    background-color:#26794b ;
+ }
+
+ .htmltaplate-section{
+    background-color: #5184be;
+ }
+
+
+
+ .htmltaplate-section h1{
+    background-color:#5084c1 ;
+    font-family: 'Yellowtail', cursive;
+ }
+ .footersection a{
+    
+   text-decoration: none; 
+ }
+ .footersection{
+    background-color:black ;
+ }
+ .contact-section h2{
+    background-color: #1d6ff8;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+ }
